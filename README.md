@@ -1,6 +1,6 @@
 Heyo :wave:
 
-This is the place where I experiment with stuff and leave the unlucky ones for a slow, painful death. :skull:
+This is the place where I experiment with stuff and leave the unlucky ones to a slow, painful death. :skull:
 
 - I'm currently working as a Product Owner for Amdocs, **glueing projects together** :droplet:
 - I'm currently learning **K8s, Prometheus, and Azure**. :book:
