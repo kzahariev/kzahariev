@@ -5,7 +5,7 @@ This is the place where I experiment with stuff and leave the unlucky ones to a 
 - I'm currently working as a Product Owner for Amdocs, **glueing projects together** :droplet:
 - I'm currently learning **K8s, Prometheus, and Azure**. :book:
 - Looking to collaborate on anything that sounds interesting. **I love data and stats.** :bar_chart:
-- Centralized repository with all my stuff: **https://kzahariev.github.io/Personal_Blog/** :ballot_box_with_check:
+- Centralized repository with all my stuff: **https://krumzahariev.com** :ballot_box_with_check:
 - Fun fact: I do the decathlon in my spare time (I run, I jump, I throw objects left and right). :runner:
 
 
