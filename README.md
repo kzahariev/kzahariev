@@ -1,4 +1,4 @@
-Heyo :wave:
+Heyo 🖐️
 
 This is the place where I experiment with stuff and leave the unlucky ones to a slow, painful death. :skull:
 
