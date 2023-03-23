@@ -22,5 +22,5 @@ This is the place where I experiment with stuff and leave the unlucky ones to a 
 
 <p align= "center">
   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=kzahariev&theme=gruvbox_light&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kzahariev&theme=gruvbox_light&layout=compact" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kzahariev)](https://github.com/kzahariev/github-readme-stats)
 </p>
